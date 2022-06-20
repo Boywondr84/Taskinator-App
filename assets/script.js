@@ -1,8 +1,8 @@
-window.document.querySelector("button").textContent;
-document.createElement("li");
-var taskItemEl = document.createElement("li");
-taskItemEl.textContent = "hello";
-taskItemEl;
+// window.document.querySelector("button").textContent;
+// document.createElement("li");
+// var taskItemEl = document.createElement("li");
+// taskItemEl.textContent = "hello";
+// taskItemEl;
 // console.log(taskItemEl);
 // console.log(taskItemEl.textContent);
 var buttonEl = document.querySelector("#save-task");
